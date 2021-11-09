@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://wordpress.org" target="_blank">
-        <img src="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" height="100px">
+        <img src="http://grupo-ams.es/grupoams/wp-content/uploads/2016/07/grupoAMS-2.png" height="100px">
     </a>
     <h1 align="center">WordPress Project Template by JustCoded</h1>
     <br>
