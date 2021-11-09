@@ -1,13 +1,13 @@
 {
-  "name": "justcoded/wordpress-starter",
+  "name": "grupo-ams-es",
   "type": "project",
   "license": "MIT",
-  "description": "WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure",
+  "description": "GRUPO AMS - Departamento RH",
   "authors": [
     {
-      "name": "Alex Prokopenko",
-      "email": "aprokopenko@justcoded.com",
-      "homepage": "https://github.com/justcoded"
+      "name": "Guillermo Galindo",
+      "email": "guillermogs19@hotmail.com",
+      "homepage": "https://github.com/cncienta"
     }
   ],
   "keywords": [
@@ -19,11 +19,11 @@
     "wp"
   ],
   "support": {
-    "issues": "https://github.com/justcoded/wordpress-starter/issues"
+    "issues": "https://github.com/cncienta/grupo-ams.es/issues"
   },
   "prefer-stable": true,
   "config": {
-    "preferred-install": "dist",
+    "preferred-install": "docs",
     "optimize-autoloader": true
   },
   "require": {
